@@ -10,7 +10,7 @@ import instaloader
 import socket
 
 # BOT TOKEN
-BOT_TOKEN = "8064714127:AAH2wFJINkCnga4CGV4T8ruqJd1m2EoruJM"  # <-- o'zingiznikini yozing
+BOT_TOKEN = "  # <-- o'zingiznikini yozing
 
 # Universal sticker file_id (emoji fallback)
 STICKER_LOADING = "CAACAgIAAxkBAAEBVYpmuNop5ZTxqGLv0XeVIGGl_xdRLwACGQEAAladvQo7QKxPL0e28S8E"
